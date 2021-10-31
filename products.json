@@ -1,0 +1,83 @@
+{
+	"products": [{
+			"name": "SELECT finger FROM hand WHERE id = 3",
+			"slug": "select-finger-from-hand-where-id-3",
+			"price" : "500",
+			"images": [
+				"/images/products/1.jpg"
+			]
+		},
+		{
+			"name": "ROSES ARE RED, VIOLETS ARE BLUE",
+			"slug": "roses-are-red-violets-are-blue",
+			"price" : "500",
+			"images": [
+				"/images/products/2.jpg"
+			]
+		},
+		{
+			"name": "2b || !2b Funny Programmer Shirt",
+			"slug": "2b-2b-funny-programmer-shirt",
+			"price" : "500",
+			"images": [
+				"/images/products/3.jpg"
+			]
+		},
+		{
+			"name": "I need a br",
+			"slug": "select-finger-from-hand-where-id-3",
+			"price" : "500",
+			"images": [
+				"/images/products/4.jpg"
+			]
+		},
+		{
+			"name": "Debugging Definition",
+			"slug": "select-finger-from-hand-where-id-3",
+			"price" : "500",
+			"images": [
+				"/images/products/5.jpg"
+			]
+		},
+		{
+			"name": "Evolution",
+			"slug": "select-finger-from-hand-where-id-3",
+			"price" : "500",
+			"images": [
+				"/images/products/6.jpg"
+			]
+		},
+		{
+			"name": "Did I ask for your input?",
+			"slug": "select-finger-from-hand-where-id-3",
+			"price" : "500",
+			"images": [
+				"/images/products/7.jpg"
+			]
+		},
+		{
+			"name": "May the SOURCE Be With You",
+			"slug": "select-finger-from-hand-where-id-3",
+			"price" : "500",
+			"images": [
+				"/images/products/8.jpg"
+			]
+		},
+		{
+			"name": "Programmer Definition",
+			"slug": "select-finger-from-hand-where-id-3",
+			"price" : "500",
+			"images": [
+				"/images/products/9.jpg"
+			]
+		},
+		{
+			"name": "Programmer Nutrition Facts",
+			"slug": "select-finger-from-hand-where-id-3",
+			"price" : "500",
+			"images": [
+				"/images/products/10.jpg"
+			]
+		}
+	]
+}
